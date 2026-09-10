@@ -1,10 +1,10 @@
 {
     "name": "Fake Voice Controls",
-    "description": "Locally keep voice audio active while Discord advertises a fake mute/deafen state.",
+    "description": "ok.",
     "authors": [
         {
-            "name": "Plugin Template User",
-            "id": "YOUR_ID_HERE"
+            "name": "moid_67",
+            "id": "0"
         }
     ],
     "main": "src/index.ts",
