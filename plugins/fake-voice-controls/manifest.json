@@ -1,0 +1,14 @@
+{
+    "name": "Fake Voice Controls",
+    "description": "Locally keep voice audio active while Discord advertises a fake mute/deafen state.",
+    "authors": [
+        {
+            "name": "Plugin Template User",
+            "id": "YOUR_ID_HERE"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_mic"
+    }
+}
